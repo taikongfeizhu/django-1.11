@@ -19,6 +19,7 @@ Team CFE
 
 ## Start
 >1. virtualenv -p /usr/bin/python3.5 py3env
+>1. source ./py3env/bin/activate
 >1. pip install -r requirements.txt -i https://pypi.douban.com/simple/
 >1. python manage.py runserver
 
